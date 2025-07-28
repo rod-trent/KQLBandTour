@@ -1,0 +1,21 @@
+Date,City,Country,Venue,Attendance,Revenue,MerchSales,Setlist,Issues
+2023-01-06,New York,USA,Madison Square Garden,10434,814501.5493350745,179049.4864123236,"Hit12,Hit9,Hit7,Encore1",Lost voice
+2023-01-27,Los Angeles,USA,Staples Center,19654,1256078.0089782723,367392.2850486432,"Hit3,Hit7,Hit6,Encore2",Vocal strain
+2023-02-25,Chicago,USA,United Center,13527,1323761.0613870565,180801.144117385,"Hit2,Hit7,Hit12,Encore2",Technical glitch
+2023-03-31,Houston,USA,Toyota Center,19891,1257629.228495653,207552.7276018332,"Hit8,Hit9,Hit2,Encore2",Power outage
+2023-04-29,Phoenix,USA,Chase Center,19044,1231364.3595558337,310158.1634157218,"Hit6,Hit10,Hit4,Encore3",Power outage
+2023-05-29,Philadelphia,USA,Wells Fargo Center,10750,892929.0337301441,190604.8466347844,"Hit2,Hit4,Hit12,Encore2",Fan rush
+2023-06-27,San Antonio,USA,AT&T Center,17428,1425335.4247319982,237862.9521509063,"Hit6,Hit12,Hit4,Encore3",Fan rush
+2023-07-26,San Diego,USA,Pechanga Arena,21498,2081710.0163321598,354294.6471203127,"Hit10,Hit11,Hit3,Encore3",Sound issues
+2023-09-03,Dallas,USA,American Airlines Center,12677,926853.6352818296,160991.2860014429,"Hit11,Hit9,Hit4,Encore3",Band argument
+2023-10-01,San Jose,USA,SAP Center,23809,2105088.8984448393,251408.265932009,"Hit1,Hit6,Hit7,Encore2",Power outage
+2023-10-24,Austin,USA,Moody Center,13456,1287157.9843520347,210879.7477269473,"Hit12,Hit6,Hit4,Encore3",Amp explosion
+2023-12-01,Jacksonville,USA,VyStar Veterans Memorial Arena,16482,1553167.3871180315,270774.8452464339,"Hit3,Hit5,Hit12,Encore1",Pyro mishap
+2023-12-28,Fort Worth,USA,Dickies Arena,18830,1188871.2244243436,298377.5419590927,"Hit10,Hit7,Hit6,Encore1",Vocal strain
+2024-01-21,Columbus,USA,Nationwide Arena,18348,1370151.4269277477,322150.9102642902,"Hit2,Hit3,Hit11,Encore3",Stage dive fail
+2024-02-20,Charlotte,USA,Spectrum Center,19771,1051350.3139165172,273159.9491352074,"Hit8,Hit9,Hit5,Encore3",Drummer missed beat
+2024-03-22,Indianapolis,USA,Gainbridge Fieldhouse,21145,1819233.1435185657,355597.6575306692,"Hit9,Hit5,Hit6,Encore1",Weather delay
+2024-04-23,Seattle,USA,Climate Pledge Arena,17123,991556.761382189,171785.6954760991,"Hit12,Hit5,Hit9,Encore1",Crowd fight
+2024-05-23,Denver,USA,Ball Arena,24952,1380358.1425224168,405544.9042986924,"Hit11,Hit9,Hit10,Encore1",Vocal strain
+2024-06-27,Washington,USA,Capital One Arena,16126,1421112.4581005946,248240.2623970908,"Hit9,Hit1,Hit10,Encore2",Amp explosion
+2024-07-28,Boston,USA,TD Garden,10319,573668.1528793158,140645.9853654005,"Hit5,Hit4,Hit1,Encore1",VIP mixup

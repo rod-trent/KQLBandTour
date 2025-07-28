@@ -1,0 +1,19 @@
+MemberName,Instrument,GigIssues
+Grok,Vocals,Vocal strain
+Grok,Vocals,Lost voice
+Grok,Vocals,VIP mixup
+Summarize,Guitar,Guitar string broke
+Summarize,Guitar,Equipment malfunction
+Summarize,Guitar,Amp explosion
+Project,Bass,Power outage
+Project,Bass,Sound issues
+Project,Bass,Technical glitch
+Join,Drums,Drummer missed beat
+Join,Drums,Late start
+Join,Drums,Stage dive fail
+Where,Keyboards,Crowd surfing incident
+Where,Keyboards,Fan rush
+Where,Keyboards,Crowd fight
+Extend,Backup Vocals,Weather delay
+Extend,Backup Vocals,Pyro mishap
+Extend,Backup Vocals,Band argument
